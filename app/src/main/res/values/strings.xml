@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestAlef</string>
+
+
+    <!-- Errors -->
+    <string name="error_no_internet">Отсутствует соединение. Подключитесь к сети.</string>
+    <string name="error_timeout">Слишком долгое подключение, попробуйте снова.</string>
+    <string name="error_unknown">Неизвестная ошибка. Попробуйте снова.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="repeat">Повторить</string>
+</resources>
